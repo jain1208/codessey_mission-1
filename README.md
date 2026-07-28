@@ -7,7 +7,7 @@ PowerShell 터미널을 사용하여 파일과 폴더를 생성하고,
 
 ## 2. 실행 환경
 
-- 운영체제: Windows
+- 운영체제: macOS (Mac)
 - 터미널: PowerShell
 - Shell: PowerShell
 
