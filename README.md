@@ -333,6 +333,8 @@ GitHub 저장소를 생성하여 프로젝트를 관리하였다.
 https://github.com/jain1208/codessey_mission-1
 ```
 
+<img width="1276" height="982" alt="image" src="https://github.com/user-attachments/assets/e8bcc613-c3bd-4d6b-9642-76b98aff34c6" />
+
 ---
 
 # 8. 실습 결과
